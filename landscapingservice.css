@@ -1,0 +1,17 @@
+h1 {color:black;}
+
+h1 {text-align: center;}
+
+h1 {font-family: 'Faster One', cursive;}
+
+body {background: lightyellow; font-size: 24pt;}
+
+body {color:black;}
+
+nav li {display: inline-block}
+
+nav li {border: 2px solid black}
+
+nav li {padding: 10px;
+	    margin: 5px;
+	    background: lightyellow}
